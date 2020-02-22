@@ -1,0 +1,84 @@
+{
+	"personalInfo": {
+		"prefix": "",
+		"firstName": "Melyna",
+		"lastName": "Price",
+		"previousLastName": "",
+		"middleName": "",
+		"suffix": "",
+		"postNominalSuffix": "",
+		"sex": "M"
+	},
+	"identificationInfo": {
+		"socialIdentifier": "",
+		"socialIdentifierType": "",
+		"ssn": "",
+		"sin": "",
+		"primaryPhone": "",
+		"eveningPhone": "",
+		"birthDate": "",
+		"birthCountry": "",
+		"birthState": "",
+		"birthProvince": "",
+		"birthForeignState": "",
+		"birthCity": "",
+		"usmleId": ""
+	},
+	"addressInfo": {
+		"country": "",
+		"countryDescription": "",
+		"addressLine1": "",
+		"addressLine2": "",
+		"addressLine3": "",
+		"city": "",
+		"state": "",
+		"stateDescription": "",
+		"province": "",
+		"provinceDescription": "",
+		"foreignState": "",
+		"postalCode": "",
+		"primaryPhone": "",
+		"eveningPhone": ""
+	},
+	"accountInfo": {
+		"userId": "",
+		"email": "MPrice@testmail.com",
+		"confirmEmail": "MPrice@testmail.com",
+		"securityQuestionCd": 3,
+		"securityQuestionResponse": "Answer001",
+		"securityQuestionCd2nd": 6,
+		"securityQuestionResponse2nd": "Answer002",
+		"securityQuestionCd3rd": 8,
+		"securityQuestionResponse3rd": "Answer003",
+		"password": "",
+		"confirmPassword": "",
+		"acceptTerms": true
+	},
+	"queryParamsDto": {
+		"accessCode": null,
+		"accessCodeEntryFlag": null,
+		"fragments": null,
+		"gotoUrl": "https://apps.ftest.aamc.org/mrs",
+		"ignoreDuplicateEmail": null,
+		"reauth": null,
+		"rm": null,
+		"stakesLvl": null,
+		"tokenid": null,
+		"userCertifiedMerge": null,
+		"userNameKept": null,
+		"verificationCode": [
+			"BT752ZIQY4JFN96K"
+		],
+		"wamId": [
+			"5031997889"
+		],
+		"accessCodeEmail": null,
+		"realm": null,
+		"allowInternal": false,
+		"service": null,
+		"aamcId": [
+			"20419803"
+		],
+		"ipCookie": "iPlanetDirectoryPro=mxeomEFtB2PyUVSzArO1gArrvMU.*AAJTSQACMDIAAlNLABxaNE82R3picyt6MXFXODB6bzJlN2RWUVpOYWc9AAR0eXBlAANDVFMAAlMxAAIwMw..*"
+	}
+}

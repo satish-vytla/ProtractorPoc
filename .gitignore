@@ -1,0 +1,15 @@
+*.sw*
+*~
+build/
+bin/
+node_modules/
+vendor/
+selenium/
+.svn
+.tmp
+.idea/
+.vscode/
+tscommand-4bc5eb59.tmp.txt
+.project
+reports/
+.env-example

@@ -1,3 +1,5 @@
 "# ProtractorPoc 1.0" 
 
-Adding the additional pliugins
+Adding the additional pliugins 
+
+- Docker 

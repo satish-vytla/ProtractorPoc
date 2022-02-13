@@ -22,7 +22,7 @@
   "author": "Satish Vytla",
   "license": "ISC",
   "dependencies": {
-    "ajv": "6.4.0",
+    "ajv": "6.12.3",
     "es6": "0.0.7",
     "faker": "4.1.0",
     "fs": "0.0.1-security",
